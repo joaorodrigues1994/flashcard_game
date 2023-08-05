@@ -18,4 +18,7 @@ body {
 
 button {
     margin-top: 10px;
+    border-radius: 25px;
+    border-color: #606060;
+    box-shadow: 2px 2px 1px #606060;
 }
